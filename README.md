@@ -15,6 +15,6 @@ I put the comments in the files explaining the important moments.
 * [stylelint](http://stylelint.io/)
 * [nvm](https://github.com/creationix/nvm)
 
-If you have a question just create an essue with name of the talk in beginning: [new essue](https://github.com/yodairish/talks/issues/new).
+If you have a question just create an essue with name of the talk in beginning: [new essue](https://github.com/yodairish/talk-tools/issues).
 
 If you found a typo or can improve an example, you can create a pull request.
